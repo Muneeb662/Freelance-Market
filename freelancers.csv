@@ -1,0 +1,101 @@
+freelancer_id,name,location,skills,rating,hourly_rate,available_hours_per_week
+FL1,Sarah Kane,Brazil,"['Digital Marketing', 'SEO', 'Graphic Design']",4.17,12,50
+FL2,Melissa Chandler,Yemen,['Data Analysis'],3.14,63,10
+FL3,Natalie Thomas,Grenada,"['Web Design', 'SEO']",3.64,71,20
+FL4,Carolyn Moore,Papua New Guinea,"['Digital Marketing', 'Python', 'Data Analysis']",3.1,30,40
+FL5,Daniel Villanueva,Latvia,"['JavaScript', 'Digital Marketing', 'SEO']",3.1,73,40
+FL6,Richard Cruz,Bermuda,"['Data Analysis', 'Digital Marketing']",4.49,65,50
+FL7,Christian Ingram,Malaysia,"['Graphic Design', 'Digital Marketing']",3.15,35,20
+FL8,Kathy Brown,Liberia,"['JavaScript', 'Python', 'Graphic Design', 'SEO']",4.68,29,20
+FL9,William James,Mayotte,"['JavaScript', 'Data Analysis', 'Graphic Design']",3.13,53,30
+FL10,Javier Leon,Montserrat,['JavaScript'],3.14,77,20
+FL11,Alan Richardson MD,Western Sahara,"['Data Analysis', 'Digital Marketing', 'Python', 'JavaScript']",3.96,75,10
+FL12,Amanda Espinoza,Puerto Rico,"['Graphic Design', 'JavaScript', 'Python', 'SEO']",4.3,22,10
+FL13,Nancy Cannon,Burundi,['Python'],4.81,31,20
+FL14,Samantha Miller,Kazakhstan,"['JavaScript', 'Digital Marketing']",3.8,93,40
+FL15,Corey Wright,Cayman Islands,"['Graphic Design', 'Digital Marketing', 'JavaScript']",3.64,58,10
+FL16,Paul Rodriguez,Mauritania,"['Graphic Design', 'Data Analysis', 'JavaScript', 'SEO']",4.2,10,20
+FL17,Paul Mora,Gibraltar,"['SEO', 'Digital Marketing', 'Graphic Design']",3.67,72,40
+FL18,Roger Johnson,Portugal,['Web Design'],4.29,41,50
+FL19,Laura Bass,Christmas Island,"['Web Design', 'Graphic Design']",3.29,54,50
+FL20,Timothy White,South Georgia and the South Sandwich Islands,"['JavaScript', 'Web Design', 'Data Analysis', 'SEO']",3.59,46,50
+FL21,Alan Richards,Malta,"['Python', 'Digital Marketing', 'Data Analysis', 'Graphic Design']",4.85,68,40
+FL22,Wesley Baker,Uzbekistan,"['Graphic Design', 'JavaScript']",4.49,15,30
+FL23,Jerry Jones,Georgia,"['Digital Marketing', 'Graphic Design', 'Data Analysis']",4.02,56,50
+FL24,Carmen Bauer,Malawi,"['Digital Marketing', 'Data Analysis', 'Web Design']",4.39,11,10
+FL25,Christopher Ramirez,Ethiopia,['JavaScript'],4.89,36,30
+FL26,Jason Willis,Syrian Arab Republic,"['Graphic Design', 'JavaScript', 'SEO', 'Data Analysis']",4.69,98,10
+FL27,Matthew Kim,Anguilla,"['Python', 'Graphic Design', 'JavaScript']",3.62,83,20
+FL28,Rebekah Riley,Russian Federation,"['Python', 'SEO', 'Digital Marketing', 'Data Analysis']",4.4,68,30
+FL29,Melody Nelson MD,Finland,"['JavaScript', 'Python']",3.87,59,10
+FL30,Sharon Smith,Mexico,"['Graphic Design', 'Web Design', 'Python']",4.27,61,50
+FL31,Cathy Bennett,Zambia,"['Python', 'SEO', 'Data Analysis']",3.59,49,20
+FL32,Shaun Gilbert,Northern Mariana Islands,['Graphic Design'],3.06,49,30
+FL33,Angelica Craig,Kyrgyz Republic,"['JavaScript', 'Graphic Design', 'Data Analysis']",3.55,45,20
+FL34,Kim Page,Liberia,"['Graphic Design', 'Digital Marketing', 'SEO']",4.38,60,30
+FL35,Cynthia Larsen,France,"['JavaScript', 'Python']",4.55,100,20
+FL36,Whitney Lee,Djibouti,"['Data Analysis', 'JavaScript', 'Digital Marketing', 'Graphic Design']",3.91,34,40
+FL37,Edward Chavez,Italy,"['JavaScript', 'Digital Marketing', 'Graphic Design']",4.93,78,30
+FL38,Michael Lee,Saint Kitts and Nevis,"['Data Analysis', 'Web Design', 'Graphic Design', 'Digital Marketing']",4.01,85,50
+FL39,Bonnie Brewer,Lao People's Democratic Republic,"['Digital Marketing', 'Graphic Design']",4.7,28,30
+FL40,Nicholas Gray,Niger,"['Graphic Design', 'SEO']",3.81,58,40
+FL41,Terry Freeman,Gibraltar,"['Data Analysis', 'Web Design', 'Digital Marketing']",3.12,18,10
+FL42,Angela Foster,Guam,"['Graphic Design', 'Web Design']",4.89,53,50
+FL43,Matthew Dean,Togo,['Digital Marketing'],3.46,69,10
+FL44,Lauren Gomez,Lesotho,"['SEO', 'Data Analysis', 'Digital Marketing']",4.0,89,10
+FL45,Samantha Francis,Svalbard & Jan Mayen Islands,['Python'],3.61,22,20
+FL46,Nathaniel Morrow MD,British Indian Ocean Territory (Chagos Archipelago),"['Web Design', 'Data Analysis', 'Digital Marketing', 'JavaScript']",4.93,59,40
+FL47,Shelby Allen,Hungary,"['Data Analysis', 'JavaScript', 'Digital Marketing', 'Python']",3.95,18,30
+FL48,Donald Bryant,Timor-Leste,"['SEO', 'Digital Marketing']",3.89,62,40
+FL49,Calvin Gonzalez,British Indian Ocean Territory (Chagos Archipelago),"['Digital Marketing', 'JavaScript', 'Data Analysis', 'Python']",3.35,17,50
+FL50,Jeremy Dyer,Mozambique,"['Data Analysis', 'SEO']",3.38,42,30
+FL51,Sherry Estes,Ukraine,['Python'],4.84,33,40
+FL52,Sherry Cuevas,Guinea,"['SEO', 'Graphic Design', 'Python', 'Data Analysis']",3.82,84,10
+FL53,Rachel Alvarado,Taiwan,"['JavaScript', 'Graphic Design', 'Web Design', 'SEO']",3.29,72,20
+FL54,Edward Carlson,Puerto Rico,"['Data Analysis', 'Graphic Design', 'SEO', 'JavaScript']",4.13,24,50
+FL55,Frances Jackson,Israel,"['Graphic Design', 'Data Analysis', 'Digital Marketing', 'JavaScript']",4.8,11,40
+FL56,Jonathan Pope,Qatar,"['Digital Marketing', 'Python']",4.43,39,20
+FL57,Keith Bradford,Comoros,['Graphic Design'],3.95,15,50
+FL58,Diane Alexander,Colombia,"['SEO', 'Web Design', 'JavaScript']",3.19,16,30
+FL59,Jason Howard,Lithuania,"['Graphic Design', 'Python', 'Digital Marketing']",4.81,81,50
+FL60,David Kim,Uganda,"['Digital Marketing', 'Graphic Design', 'Web Design', 'SEO']",4.07,36,50
+FL61,Alexander Finley,Comoros,"['Data Analysis', 'Web Design']",4.41,10,40
+FL62,David Mckinney,Iraq,"['Digital Marketing', 'Graphic Design', 'Data Analysis', 'Web Design']",4.33,26,20
+FL63,Meredith Larson MD,Malta,"['SEO', 'JavaScript', 'Python', 'Data Analysis']",3.42,99,30
+FL64,Lisa Erickson,Western Sahara,"['SEO', 'JavaScript', 'Python', 'Graphic Design']",4.9,90,20
+FL65,Mark Gonzalez,Italy,['Data Analysis'],3.83,40,30
+FL66,Travis Sampson,Syrian Arab Republic,"['Web Design', 'JavaScript', 'Digital Marketing', 'Graphic Design']",3.01,44,40
+FL67,Christine Kaiser,Ghana,['JavaScript'],3.33,64,10
+FL68,Christian Castaneda,Thailand,['Web Design'],4.29,99,20
+FL69,Michelle Frazier,French Polynesia,"['Graphic Design', 'Web Design', 'Digital Marketing']",4.2,41,30
+FL70,Chad Baker,Lesotho,"['Web Design', 'Python']",3.49,21,20
+FL71,Jennifer Reed,France,"['Python', 'Data Analysis', 'SEO', 'Digital Marketing']",3.31,70,20
+FL72,Tara Watts,Mauritius,"['SEO', 'JavaScript', 'Python', 'Web Design']",3.71,40,30
+FL73,Melissa Logan,Barbados,"['JavaScript', 'SEO', 'Digital Marketing']",4.13,71,50
+FL74,Jennifer Ellis,Reunion,"['Python', 'SEO', 'Graphic Design']",3.2,91,40
+FL75,Margaret Thomas,Timor-Leste,"['Digital Marketing', 'Data Analysis']",4.25,51,30
+FL76,Andrea Wilson,Dominican Republic,['Python'],4.06,10,50
+FL77,Mrs. Alexis Wilson MD,Romania,"['Data Analysis', 'Python', 'Graphic Design', 'Digital Marketing']",3.4,37,40
+FL78,Tara Wagner,Lao People's Democratic Republic,"['Python', 'JavaScript']",3.18,12,10
+FL79,Steven Casey,Jersey,"['Python', 'JavaScript', 'Digital Marketing', 'Data Analysis']",4.54,18,50
+FL80,Jonathan Byrd,Brazil,['Data Analysis'],4.96,20,50
+FL81,Susan Cole,Colombia,"['JavaScript', 'Graphic Design', 'Digital Marketing', 'Data Analysis']",4.38,92,40
+FL82,Kyle Schwartz,Bouvet Island (Bouvetoya),"['Data Analysis', 'Graphic Design']",3.17,81,30
+FL83,Linda Johnson,Ecuador,"['SEO', 'Graphic Design', 'Data Analysis', 'JavaScript']",4.52,97,20
+FL84,Rebecca Ramos,Samoa,"['Data Analysis', 'JavaScript', 'Web Design']",3.38,25,30
+FL85,April Johnson,Tunisia,['Graphic Design'],4.83,65,50
+FL86,Andrea Thomas,Guinea-Bissau,"['SEO', 'JavaScript', 'Data Analysis']",4.52,47,20
+FL87,Bryan Johnson,Mongolia,"['SEO', 'Data Analysis', 'JavaScript', 'Web Design']",4.24,35,10
+FL88,Tanya Blackwell,Mayotte,"['JavaScript', 'Data Analysis', 'Python']",3.48,41,20
+FL89,Andrea Fox,Argentina,"['Web Design', 'Graphic Design', 'JavaScript']",4.4,38,50
+FL90,Nicholas Jones,France,"['Python', 'Data Analysis', 'SEO', 'Web Design']",3.57,78,30
+FL91,Miss Megan Carroll,Thailand,"['Data Analysis', 'SEO', 'Web Design']",3.6,24,40
+FL92,Kyle Morrison,Liberia,"['SEO', 'Web Design']",3.1,68,40
+FL93,Julia Gaines,United States Minor Outlying Islands,['Python'],4.47,90,30
+FL94,Theresa Cunningham,Marshall Islands,"['Python', 'Graphic Design', 'Web Design', 'JavaScript']",3.33,17,50
+FL95,Dawn Baker,Martinique,"['Graphic Design', 'Web Design']",3.96,42,10
+FL96,Kathryn Barrett,United States Virgin Islands,"['JavaScript', 'Digital Marketing', 'Data Analysis']",4.69,23,40
+FL97,Anthony Horton,Jordan,"['Python', 'JavaScript', 'Data Analysis']",3.77,100,20
+FL98,Robert Diaz,Iraq,"['Digital Marketing', 'Graphic Design']",3.27,83,50
+FL99,Jason Reynolds,France,['Python'],3.12,40,50
+FL100,Kevin Davis,Russian Federation,"['Data Analysis', 'Python', 'SEO']",3.58,25,30
